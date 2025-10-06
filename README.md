@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I’m Harini! 👋
 
-<!--
-**HARINIS21/HARINIS21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Current Role:** Seller Partner Support  
+**Top Skills:** Java | SQL | Python
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **Turning challenges into opportunities** 🌟
+
+---
+
+## 👩‍💻 About Me
+
+Welcome to my GitHub profile! I’m passionate about technology, problem-solving, and supporting partners to reach their full potential. Whether it’s coding in Java, querying with SQL, or scripting in Python, I love leveraging my skills to create positive impact and drive solutions.
+
+## 🔧 Tech Stack
+
+- **Languages:** Java, Python, SQL
+- **Role:** Seller Partner Support 
+
+
+## 🌱 I’m currently learning
+
+- Part of Amazon ATLAS program, training for Quality Assurance Engineer (QAE)
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/harini-s-8b81231b9)
+
+---
+
+> **Turning challenges into opportunities**
